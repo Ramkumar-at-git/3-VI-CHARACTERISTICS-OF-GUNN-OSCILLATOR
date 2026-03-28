@@ -73,6 +73,9 @@ From the observation table, it is seen that the current through the Gunn diode i
 This behavior confirms the negative differential resistance (NDR) characteristic of the Gunn diode, which is essential for microwave oscillation.
 
 Sample Calculation
+
+
+
 <img width="779" height="279" alt="image" src="https://github.com/user-attachments/assets/06aefe17-4dad-41a6-b9af-67bd6fc53754" />
 
 D.Conclusions:
